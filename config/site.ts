@@ -3,7 +3,7 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
   name: "KK หลอมทอง | เช็คราคาทอง ตรวจราคาทอง ประเมินราคาทอง",
   url: "https://watcharagold.com/",
-  description: "KK หลอมทอง ตรวจราคาทอง เช็คราคาทอง ประเมินราคาทองได้ที่นี่ | รับซื้อทองคำทุกประเภท โทร 0639289393 หรือเดินทางมาที่ร้าน https://maps.app.goo.gl/msZZVXprEYpYWU3z5",
+  description: "KK หลอมทอง ตรวจราคาทอง เช็คราคาทอง ประเมินราคาทองได้ที่นี่ | รับซื้อทองคำทุกประเภท โทร 0648282624 หรือเดินทางมาที่ร้าน https://maps.app.goo.gl/W2riCWFrxUn8LC6F8",
   navItems: [
   ],
   navMenuItems: [
